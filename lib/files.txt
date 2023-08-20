@@ -1,0 +1,4 @@
+Add the jar files from Sarxos here:
+webcam-capture-0.3.12.jar
+bridj-0.7.0.jar
+slf4j-api-1.7.2.jar
